@@ -12,4 +12,4 @@
 - 🔒 [Door lock](https://github.com/1-max-1/arcady-door-lock/blob/main/README.md) - this is an electromechanical door lock powered by an esp32 and a couple of servos. A touchscreen on the front of the door allows users to input a password before the door unlocks. It employs gears ad a creative mechanism to prevent the lock from getting jammed.
 - 🧗‍♂️ [Fake kilter board](https://github.com/1-max-1/fake_kilter_board) - a Kilter board is a climbing wall with light up holds. It communicates with the official mobile app through bluetooth (specifically BLE). I wanted to figure out how it works so I could send my own commands to it with my own software. After alot of reverse engineering, I uncovered enough details that I was able to make my own fake climbing wall using a microcontroller with built in bluetooth capabilities. I could then use this fake wall to test other software intended for controlling a real one.
 
-📫 You can reach me at `maxh2815@gmail.com` or find me [on LinkedIn](https://www.linkedin.com/in/max-hosking-a92707315/).
+📫 You can reach me at `maxh2815@gmail.com`.
